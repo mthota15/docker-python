@@ -1,0 +1,12 @@
+json2parquet
+confluent-kafka
+python-snappy
+pyarrow
+fastparquet
+s3fs
+boto3
+pandas
+ujson
+ciso8601
+paramiko
+requests
